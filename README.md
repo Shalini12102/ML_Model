@@ -1,2 +1,2 @@
 # ML_Model
-# This is a Machine Learning Model which is performed on test data. In this Project i perform all the EDA Steps to find perfect ML Model. Build a model to predict performance of employees, based on the visualisation and analysis of past data of employee performance.
+# This is a machine learning model that is trained on test data. In this project, I perform all the EDA Steps to find the perfect ML Model. I build a model to predict the performance of employees based on the visualization and analysis of past employee performance data.
